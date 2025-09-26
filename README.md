@@ -102,5 +102,5 @@ O sistema também oferece relatórios básicos:
 ## ▶️ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/usuario/repositorio.git](https://github.com/asafeareas/tia-lu-food-app-dados-parana/tree/main
    cd repositorio
